@@ -26,6 +26,5 @@ If this is your first time to open source contribution I have created this repo 
 
 ### Congratulations!🎇
  You contributed to open source project & sit relax wait for review.!
- Thank you.🤝
 
 ### If you like this repo, drop a ⭐
